@@ -10,6 +10,7 @@ https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.csdn.net%2Fljtyzhr%2Farticle%2
 
 
 ![image](https://github.com/Roseller37/UML-diagram/blob/main/%E4%BA%8B%E5%8B%99.png)
-https://github.com/Roseller37/UML-diagram/blob/main/Relationships.png
-https://github.com/Roseller37/UML-diagram/blob/main/Instance_1.png
-https://github.com/Roseller37/UML-diagram/blob/main/Instance_2.png
+![image](https://github.com/Roseller37/UML-diagram/blob/main/Relationships.png)
+![image](https://github.com/Roseller37/UML-diagram/blob/main/Instance_1.png)
+![image](https://github.com/Roseller37/UML-diagram/blob/main/Instance_2.png)
+![image](https://github.com/Roseller37/UML-diagram/blob/main/%E8%B3%BC%E7%A5%A8%E6%B5%81%E7%A8%8B.png)
