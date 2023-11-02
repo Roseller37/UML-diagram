@@ -21,7 +21,7 @@
 ![image](https://github.com/Roseller37/UML-diagram/blob/main/Instance_2.png)
 
 <h2>5.購票流程</h2>
-<h2>5.1 情境描述</h2>
+<h3>5.1 情境描述</h3>
 <p>情境一：
 
 購買個人票可以透過公用資訊亭訂購也可直接向售票員購買，但購買團體票只能透過售票員。
@@ -34,7 +34,7 @@
 
 ![image](https://github.com/Roseller37/UML-diagram/blob/main/%E8%B3%BC%E7%A5%A8%E6%B5%81%E7%A8%8B.png)
 
-<h2>5.2 圖示關係</h2>
+<h3>5.2 圖示關係</h3>
 
 圖中依賴關係包括：顧客需要資訊亭介面提供服務
 
