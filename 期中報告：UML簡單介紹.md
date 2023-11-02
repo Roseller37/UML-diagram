@@ -6,3 +6,7 @@
 <h2>3、關係</h2>
 <p>元件圖中的關係也比較簡單，主要是依賴和實作等，如下：</p>
 https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.csdn.net%2Fljtyzhr%2Farticle%2Fdetails%2F46537513%3Futm_medium%3Ddistribute.pc_feed_404.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-5-46537513-blog-null.262%255Ev1%255Epc_404_mixedpudn%26depth_1-utm_source%3Ddistribute.pc_feed_404.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-5-46537513-blog-null.262%255Ev1%255Epc_404_mixedpud&h=AT0VRoP0F0zSNm6TPf0v3CuqKtb_fRUrASTpBnkFs6GizGl8VnlyI7DPbzBIYDHmYR1xuVT6Cc4FRR3iI1QWVxyxxmBQJ0n4BbZcJpro5p9vUPQ4R2xzyXM9t78NkE9Mwm8N4v9dMn5d9Kg&s=1
+
+
+
+![image](https://github.com/Roseller37/UML-diagram/blob/main/%E4%BA%8B%E5%8B%99.png)
